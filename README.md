@@ -19,10 +19,6 @@ This tool captures live network traffic and displays it in a clean, dark-themed 
 - ✅ Categorized packet view: IPs, Ports, Payloads
 - ✅ Professional dark UI for better readability
 
-📸 Preview
-
-![image](https://github.com/user-attachments/assets/4720539a-67d8-4fd3-8426-8dd2ddcdf12b)
-
 
 ## 📦 Technologies Used
 
