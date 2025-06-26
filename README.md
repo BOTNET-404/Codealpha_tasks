@@ -31,10 +31,6 @@ This tool captures live network traffic and displays it in a clean, dark-themed 
 
 > ⚠️ Run as Administrator/root to capture all network traffic.
 
-```bash
-pip install scapy
-python packet_sniffer_gui.py
-````
 
 ## 🎓 Ideal For
 
